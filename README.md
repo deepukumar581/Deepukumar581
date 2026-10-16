@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Deepu Kumar 👋
 
-<!--
-**deepukumar581/Deepukumar581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing a Bachelor of Computer Applications (BCA) and working toward becoming a skilled software developer. I enjoy learning programming, solving problems, and building a strong foundation in computer science.
+
+### 🚀 About Me
+- 🎓 Pursuing BCA at Patliputra University
+- 💻 Learning Java and software development
+- 🧠 Improving my problem-solving and logical thinking skills
+- 📚 Focused on consistent learning and practical coding
+- 🎯 Working toward building useful, real-world software projects
+
+### 🛠️ Technical Skills
+- **Programming Language:** Java
+- **Core Concepts:** Programming Fundamentals
+- **Other Skills:** Problem Solving
+
+### 📈 My Goals
+- Strengthen my programming fundamentals
+- Develop strong problem-solving skills
+- Learn Data Structures and Algorithms (DSA)
+- Build meaningful projects and share them on GitHub
+- Continuously grow as a software developer
+
+### 🤝 Let's Connect
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/deepu-kumar-581gh55)
+
+---
+
+*Learning continuously, solving problems, and building my future one line of code at a time.* 💻

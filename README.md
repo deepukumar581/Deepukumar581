@@ -26,7 +26,8 @@ I'm currently pursuing a Bachelor of Computer Applications (BCA) and working tow
 - Continuously grow as a software developer
 
 ### 🤝 Let's Connect
-- **LinkedIn:** [Connect with me](www.linkedin.com/in/deepu-kumar-581gh55)
+- **LinkedIn:** [Connect with me]
+- (www.linkedin.com/in/deepu-kumar-581gh55)
 
 ---
 
